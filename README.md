@@ -8,7 +8,7 @@
 
 ```bash
 $ # Clone the sources
-$ git clone https://github.com/app-generator/jinja-template-boomerang-uikit.git
+$ git clone https://github.com/toshinestar/Boomerang-UI-Jinja.git
 $ cd jinja-template-boomerang-uikit
 $
 $ # Virtualenv modules installation (Unix based systems)
