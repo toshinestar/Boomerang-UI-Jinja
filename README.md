@@ -59,7 +59,7 @@ The steps to start the template using Docker:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/jinja-template-boomerang-uikit.git
+$ git clone https://github.com/toshinestar/Boomerang-UI-Jinja.git
 $ cd jinja-template-boomerang-uikit
 ```
 
