@@ -2,11 +2,6 @@
 
 <br />
 
-
-<br />
-
-![Template Jinja2 Theme - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-boomerang-uikit/master/media/jinja-template-boomerang-uikit-screen.png)
-
 <br />
 
 ## Build from sources
